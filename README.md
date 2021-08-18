@@ -22,7 +22,7 @@ Example project using Swagger to dotNet Framework
    
    2.1 Run the following command in the “Package Manager Console” in Visual Studio:
         
-        "Install-Package Swashbucle -Version 5.2.1"
+        "Install-Package Swashbuckle -Version 5.2.1"
   
 >3 - The next step is to enable XML documentation in your web application. Right-click on the web app project node in Solution Explorer and choose Properties.
 
